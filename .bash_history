@@ -132,3 +132,8 @@ git push -u origin master
 git commit -m 'initial commit'
 git push -u origin master
 git and --all
+git add --all
+git commit -m 'initial commit'
+git push -u origin master
+git remote remove origin
+git remote add origin https://github.com/Mr-Boberino/hello.git
